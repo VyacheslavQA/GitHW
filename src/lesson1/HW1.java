@@ -16,7 +16,7 @@ public class HW1 {
     }
 
     public static void checkSumSign() {
-        int a = 5;
+        int a = -20;
         int b = 10;
         if (a + b >= 0) {
             System.out.println("Сумма положительная");
